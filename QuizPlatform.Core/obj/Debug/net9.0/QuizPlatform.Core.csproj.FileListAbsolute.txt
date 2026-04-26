@@ -1,0 +1,11 @@
+/Users/nurbalzhan/Downloads/QuizPlatform/QuizPlatform.Core/bin/Debug/net9.0/QuizPlatform.Core.deps.json
+/Users/nurbalzhan/Downloads/QuizPlatform/QuizPlatform.Core/bin/Debug/net9.0/QuizPlatform.Core.dll
+/Users/nurbalzhan/Downloads/QuizPlatform/QuizPlatform.Core/bin/Debug/net9.0/QuizPlatform.Core.pdb
+/Users/nurbalzhan/Downloads/QuizPlatform/QuizPlatform.Core/obj/Debug/net9.0/QuizPlatform.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nurbalzhan/Downloads/QuizPlatform/QuizPlatform.Core/obj/Debug/net9.0/QuizPlatform.Core.AssemblyInfoInputs.cache
+/Users/nurbalzhan/Downloads/QuizPlatform/QuizPlatform.Core/obj/Debug/net9.0/QuizPlatform.Core.AssemblyInfo.cs
+/Users/nurbalzhan/Downloads/QuizPlatform/QuizPlatform.Core/obj/Debug/net9.0/QuizPlatform.Core.csproj.CoreCompileInputs.cache
+/Users/nurbalzhan/Downloads/QuizPlatform/QuizPlatform.Core/obj/Debug/net9.0/QuizPlatform.Core.dll
+/Users/nurbalzhan/Downloads/QuizPlatform/QuizPlatform.Core/obj/Debug/net9.0/refint/QuizPlatform.Core.dll
+/Users/nurbalzhan/Downloads/QuizPlatform/QuizPlatform.Core/obj/Debug/net9.0/QuizPlatform.Core.pdb
+/Users/nurbalzhan/Downloads/QuizPlatform/QuizPlatform.Core/obj/Debug/net9.0/ref/QuizPlatform.Core.dll

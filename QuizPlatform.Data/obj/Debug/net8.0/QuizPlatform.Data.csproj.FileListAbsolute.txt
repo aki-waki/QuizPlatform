@@ -1,0 +1,17 @@
+/Users/nurbalzhan/Downloads/QuizPlatform/QuizPlatform.Data/bin/Debug/net8.0/QuizPlatform.Data.deps.json
+/Users/nurbalzhan/Downloads/QuizPlatform/QuizPlatform.Data/bin/Debug/net8.0/QuizPlatform.Data.runtimeconfig.json
+/Users/nurbalzhan/Downloads/QuizPlatform/QuizPlatform.Data/bin/Debug/net8.0/QuizPlatform.Data.dll
+/Users/nurbalzhan/Downloads/QuizPlatform/QuizPlatform.Data/bin/Debug/net8.0/QuizPlatform.Data.pdb
+/Users/nurbalzhan/Downloads/QuizPlatform/QuizPlatform.Data/bin/Debug/net8.0/QuizPlatform.Core.dll
+/Users/nurbalzhan/Downloads/QuizPlatform/QuizPlatform.Data/bin/Debug/net8.0/QuizPlatform.Core.pdb
+/Users/nurbalzhan/Downloads/QuizPlatform/QuizPlatform.Data/obj/Debug/net8.0/QuizPlatform.Data.csproj.AssemblyReference.cache
+/Users/nurbalzhan/Downloads/QuizPlatform/QuizPlatform.Data/obj/Debug/net8.0/QuizPlatform.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nurbalzhan/Downloads/QuizPlatform/QuizPlatform.Data/obj/Debug/net8.0/QuizPlatform.Data.AssemblyInfoInputs.cache
+/Users/nurbalzhan/Downloads/QuizPlatform/QuizPlatform.Data/obj/Debug/net8.0/QuizPlatform.Data.AssemblyInfo.cs
+/Users/nurbalzhan/Downloads/QuizPlatform/QuizPlatform.Data/obj/Debug/net8.0/QuizPlatform.Data.csproj.CoreCompileInputs.cache
+/Users/nurbalzhan/Downloads/QuizPlatform/QuizPlatform.Data/obj/Debug/net8.0/QuizPlat.6484DF18.Up2Date
+/Users/nurbalzhan/Downloads/QuizPlatform/QuizPlatform.Data/obj/Debug/net8.0/QuizPlatform.Data.dll
+/Users/nurbalzhan/Downloads/QuizPlatform/QuizPlatform.Data/obj/Debug/net8.0/refint/QuizPlatform.Data.dll
+/Users/nurbalzhan/Downloads/QuizPlatform/QuizPlatform.Data/obj/Debug/net8.0/QuizPlatform.Data.pdb
+/Users/nurbalzhan/Downloads/QuizPlatform/QuizPlatform.Data/obj/Debug/net8.0/QuizPlatform.Data.genruntimeconfig.cache
+/Users/nurbalzhan/Downloads/QuizPlatform/QuizPlatform.Data/obj/Debug/net8.0/ref/QuizPlatform.Data.dll

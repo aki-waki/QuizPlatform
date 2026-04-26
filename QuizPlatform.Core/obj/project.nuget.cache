@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "S+B3XMrqaXY=",
+  "success": true,
+  "projectFilePath": "/Users/nurbalzhan/Downloads/QuizPlatform/QuizPlatform.Core/QuizPlatform.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/nurbalzhan/.nuget/packages/microsoft.netcore.app.ref/9.0.14/microsoft.netcore.app.ref.9.0.14.nupkg.sha512",
+    "/Users/nurbalzhan/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.14/microsoft.aspnetcore.app.ref.9.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
