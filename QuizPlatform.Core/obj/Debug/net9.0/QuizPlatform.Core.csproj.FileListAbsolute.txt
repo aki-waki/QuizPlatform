@@ -9,3 +9,4 @@
 /Users/nurbalzhan/Downloads/QuizPlatform/QuizPlatform.Core/obj/Debug/net9.0/refint/QuizPlatform.Core.dll
 /Users/nurbalzhan/Downloads/QuizPlatform/QuizPlatform.Core/obj/Debug/net9.0/QuizPlatform.Core.pdb
 /Users/nurbalzhan/Downloads/QuizPlatform/QuizPlatform.Core/obj/Debug/net9.0/ref/QuizPlatform.Core.dll
+/Users/nurbalzhan/Downloads/QuizPlatform/QuizPlatform.Core/obj/Debug/net9.0/QuizPlatform.Core.sourcelink.json

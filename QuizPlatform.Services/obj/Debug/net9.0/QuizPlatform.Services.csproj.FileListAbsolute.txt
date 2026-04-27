@@ -15,3 +15,4 @@
 /Users/nurbalzhan/Downloads/QuizPlatform/QuizPlatform.Services/obj/Debug/net9.0/refint/QuizPlatform.Services.dll
 /Users/nurbalzhan/Downloads/QuizPlatform/QuizPlatform.Services/obj/Debug/net9.0/QuizPlatform.Services.pdb
 /Users/nurbalzhan/Downloads/QuizPlatform/QuizPlatform.Services/obj/Debug/net9.0/ref/QuizPlatform.Services.dll
+/Users/nurbalzhan/Downloads/QuizPlatform/QuizPlatform.Services/obj/Debug/net9.0/QuizPlatform.Services.sourcelink.json

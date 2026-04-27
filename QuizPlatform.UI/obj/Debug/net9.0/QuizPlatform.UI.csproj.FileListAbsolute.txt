@@ -58,3 +58,4 @@
 /Users/nurbalzhan/Downloads/QuizPlatform/QuizPlatform.UI/obj/Debug/net9.0/QuizPlatform.UI.pdb
 /Users/nurbalzhan/Downloads/QuizPlatform/QuizPlatform.UI/obj/Debug/net9.0/QuizPlatform.UI.genruntimeconfig.cache
 /Users/nurbalzhan/Downloads/QuizPlatform/QuizPlatform.UI/obj/Debug/net9.0/ref/QuizPlatform.UI.dll
+/Users/nurbalzhan/Downloads/QuizPlatform/QuizPlatform.UI/obj/Debug/net9.0/QuizPlatform.UI.sourcelink.json
