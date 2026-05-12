@@ -1,3 +1,19 @@
+# Build folders
 bin/
 obj/
+
+# Database
 *.db
+quiz.db
+
+# macOS junk
+.DS_Store
+.DS_Store?
+
+# Visual Studio / Rider
+*.user
+*.suo
+*.userprefs
+
+# Logs
+*.log
