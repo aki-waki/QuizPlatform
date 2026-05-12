@@ -42,7 +42,7 @@ dotnet test
 - No external DB needed (SQLite file created automatically)
 
 - ## Contributors
-- Nuran Balzhan (69647)
+- Nuran Balzhan (69647) 
 - Bexultan Zhylkybay (69642)
 - Nurbolat Zhanuzak (70997)
 
