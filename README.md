@@ -43,4 +43,5 @@ dotnet test
 
 - ## Contributors
 - Nuran Balzhan (69647)
+- Bexultan Zhylkybay (69642)
 
