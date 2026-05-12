@@ -40,3 +40,7 @@ dotnet test
 
 - .NET 8 SDK
 - No external DB needed (SQLite file created automatically)
+
+- ## Contributors
+- Nuran Balzhan (69647)
+
